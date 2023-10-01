@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D4D16AQEZgFK71119Hw/profile-displaybackgroundimage-shrink_350_1400/0/1695258500593?e=1701907200&v=beta&t=7s_BOXHxW18hDpqigEy6qUDJcvV46cSn4uAnYmw_iMk)](https://github.com/zaryabnaqvi)
+[![MasterHead](https://github.com/zaryabnaqvi/zaryabnaqvi/blob/main/Black%20Modern%20Vlogger%20YouTube%20Banner.png?raw=true)](https://github.com/zaryabnaqvi)
 <h1 align="center">Hi 👋, I'm Zaryab Naqvi</h1>
 <h3 align="center>A passionate Computer Science Student from Pakistan</h3>
 
