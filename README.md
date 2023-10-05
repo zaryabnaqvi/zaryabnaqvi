@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Web development & Data Engineering**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Nest.js**
 
 - 💬 Ask me about **Data Structues & Algorithm , OOP Paradigms**
 
