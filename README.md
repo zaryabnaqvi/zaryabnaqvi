@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/zaryabnaqvi/zaryabnaqvi/blob/main/Black%20Modern%20Vlogger%20YouTube%20Banner.png?raw=true)](https://github.com/zaryabnaqvi)
+[![MasterHead](https://github.com/zaryabnaqvi/zaryabnaqvi/blob/eac6499cb41b89228ef901de09b121e176fd05b9/Black%20Modern%20Vlogger%20YouTube%20Banner%20(1).png)](https://github.com/zaryabnaqvi)
 <h1 align="center">Hi 👋, I'm Zaryab Naqvi</h1>
 <h3 align="center>A passionate Computer Science Student from Pakistan</h3>
 
